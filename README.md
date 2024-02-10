@@ -1,3 +1,8 @@
+![Screenshot (148)](https://github.com/Rohitverma12345/gingermedia/assets/122350697/1a8c2e18-cd98-4025-85b6-c21643fd5d46)
+
+![Screenshot (149)](https://github.com/Rohitverma12345/gingermedia/assets/122350697/8bd2a9a2-7cfc-4d2f-a8b2-e7937d1a5379)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
